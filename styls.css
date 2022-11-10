@@ -1,0 +1,9 @@
+.jumbotron{
+	background-image: orange;
+	background-size: cover;
+	height: 1000px;
+	text-align: center;
+}
+.jumbotron{
+	color: red;
+}
